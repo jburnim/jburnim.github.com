@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/jburnim
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://burn.im
+  * I am jburnim (https://keybase.io/jburnim) on keybase.
+  * I have a public key with fingerprint E4A3 C827 5841 1033 2B30  5D36 14D5 F5B9 F659 D99E
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01018df5556c38b6d3b0a4fa63c4ff3bd4cb5a4950794ff597193af1bfccbbaf45b00a",
+            "fingerprint": "e4a3c827584110332b305d3614d5f5b9f659d99e",
+            "host": "keybase.io",
+            "key_id": "14d5f5b9f659d99e",
+            "kid": "01018df5556c38b6d3b0a4fa63c4ff3bd4cb5a4950794ff597193af1bfccbbaf45b00a",
+            "uid": "0b2357fcbf0b35210952a5049323e619",
+            "username": "jburnim"
+        },
+        "service": {
+            "hostname": "burn.im",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1462217167,
+    "expire_in": 157680000,
+    "prev": "622c553ff700146d0e1c280cbcba401092db0eae480c637333eab185f205b79b",
+    "seqno": 8,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.53
+Comment: https://keybase.io/crypto
+
+yMIhAnicrZJbSBVBGMePml0kyYqCoiTmIaVMZnZ29nIyDEoNjejy0Etw2tmd0T2e
+dk/nrMfCLCq6GBEWRCocQZPUIMWiQqI0ScjKbhQKUlTWQ1CQXR+CatbqrcfmZZj/
+/P7/+b6PuZWZFshI6Q6kOz3JyPeUuzdPVgW25nQ+qAHUtXaDYA2oZJMbi1gs7oUq
+bQsEAUQQaRYnhCgm1qhiYQoNmRsKNmXOMbVkkxJD1glUdSEQXUU6Njii3DQpNbhM
+KIQGyAPcdspZLBqzHU/EMtnApiapRJMRghhLFENiYQXJFuGE6lwhuqXrTBgr3Ljv
+EMVRI87ybVdo4hCaLO8f/H+uu+p3HJUwUblJOaSYSAjqRDIIlHUsYaYg3QfjLOYY
+O5igw7Qq5tg7QG0eEGLCNpk/V7+RP4B/ny+APBCNuZ5ruhEhVnheNB70Td7uqE9V
+Mxr64w9R27HEBIUjwWJx23VAEAnS9Gw/EMmKJCEVKWoeYLuidoyFbJ8gqqJBsfx3
+WEJECswkBHOuQihMFmTIlDRoUpMaspiZLlkUMoPJQlOwijFmBkUa4RIkVNUp8Dva
+6bggqIkyjXIRGbfLHcOrijFQO9C/bUogJSMwNT3V/1mBjBlZf/9b2fNpP9cmv000
+Hai5mP22MHKjNlSQ1ph83vJ1dHuvde1FdNu1e8NK8ZHBYxuG7Zxld8JDWdmN/fMy
+5nyeKFn++iS/1fE0PDjYdrCkcNWPLjD9xRCDFzY2t/duWllRevcySrbOubJm9GF9
+opOtKO5vSuQ+6Vh0qDi7L1lS55Surj6+eU3DQjB+6dke/SNCq2qyC15Ws9Q37kTl
+7fzIj67Fp+f2jafen3sa3Zx5qWi4bOnR68elwhnh5vC59X2ZZ7+MWZltKyoTp2rf
+HTmxsuFw66xXMx8l6j/srf90/czY4wWf5y9a914faFpyvmtA6/Z6D7ebbP++5pZ0
+t6jn6uyhLePFdbkjI5n8F26WQR8=
+=iCEX
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jburnim
+
+==================================================================
